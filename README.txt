@@ -1,4 +1,4 @@
-SAMUEL LASHWOOD (01190892) COMPUTATIONAL PHYSICS ASSIGNEMENT 
+SAMUEL LASHWOOD 2018/9 COMPUTATIONAL PHYSICS ASSIGNEMENT 
 **** READ ME ****
 
 The given problems can be solved by running the code file named by the subject of the problem. 
